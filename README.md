@@ -50,12 +50,6 @@ Here's a showcase of some of my CRUD applications and other noteworthy projects 
 
 ---
 
-## 📊 GitHub Stats
-
-![Yeasin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdyeasinmazumder&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdyeasinmazumder&layout=compact&theme=radical)
-
----
 
 ## 🔍 What I'm Looking For
 
