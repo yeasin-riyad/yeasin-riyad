@@ -10,7 +10,7 @@ I'm a passionate web developer specializing in the MERN stack. With a strong fou
 
 - **Name**: Md. Yeasin Mazumder
 - **Role**: Junior MERN Stack Developer
-- **Location**:Mirpur-12,Dhaka-1216
+- **Location**: Mirpur-12, Dhaka-1216
 - **Currently Learning**: Advanced Next.js, TypeScript, and optimized Redux patterns
 
 ---
@@ -47,6 +47,13 @@ Here's a showcase of some of my CRUD applications and other noteworthy projects 
 ### 4. **Portfolio Website**
    - **Tech**: Next.js, Tailwind CSS
    - **Features**: Responsive design, Smooth animations, Project showcase, Contact form integration
+
+---
+
+## 📊 GitHub Stats
+
+![Yeasin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdyeasinmazumder&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdyeasinmazumder&layout=compact&theme=radical)
 
 ---
 
