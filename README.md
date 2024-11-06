@@ -10,7 +10,7 @@ I'm a passionate web developer specializing in the MERN stack. With a strong fou
 
 - **Name**: Md. Yeasin Mazumder
 - **Role**: Junior MERN Stack Developer
-- **Location**: [Your Location]
+- **Location**:Mirpur-12,Dhaka-1216
 - **Currently Learning**: Advanced Next.js, TypeScript, and optimized Redux patterns
 
 ---
