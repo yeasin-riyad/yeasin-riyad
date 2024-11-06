@@ -60,7 +60,7 @@ As a junior developer, I'm looking for a **supportive and growth-oriented enviro
 
 I'm always open to connecting with fellow developers and potential employers! Feel free to reach out.
 
-- **LinkedIn**: [Your LinkedIn Profile](#)
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/mdyeasinmazumder)
 - **Portfolio**: [Your Portfolio Link](#)
 - **Email**: [Your Email Address](#)
 
