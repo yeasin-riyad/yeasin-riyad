@@ -37,7 +37,7 @@ Here's a showcase of some of my CRUD applications and other noteworthy projects 
    - **Features**: Product catalog, Add-to-cart, User Authentication, Order management
 
 ### 2. **Social Media Dashboard**
-   - **Tech**: Next.js, Firebase Auth, Tailwind CSS, Redux Toolkit
+   - **Tech**: Next.js, Next Auth, Tailwind CSS, Redux Toolkit
    - **Features**: User authentication, Real-time data, Post creation and deletion, Follower management
 
 ### 3. **Task Management App**
