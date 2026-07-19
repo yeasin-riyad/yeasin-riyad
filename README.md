@@ -37,29 +37,16 @@ I build secure, scalable and production-ready web applications using modern tech
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-```ts
-const yeasin = {
-    name: "Md. Yeasin Mazumder",
-    role: "Backend Developer",
-    location: "Mirpur-12, Dhaka-1216",
-    passion: [
-        "Building Scalable APIs",
-        "System Design",
-        "Backend Architecture",
-        "Clean Code",
-        "Problem Solving"
-    ],
+> Passionate about transforming ideas into **secure**, **scalable**, and **high-performance** web applications.
 
-    currentlyLearning: [
-        "Microservices",
-        "AWS",
-        "DevOps",
-        "System Design"
-    ]
-}
-```
+- 💼 **Role:** Backend Developer
+- 🌍 **Location:** Mirpur-12, Dhaka, Bangladesh
+- 💻 **Specialization:** Node.js, NestJS, Express.js & TypeScript
+- 🛠️ **Experienced With:** PostgreSQL, MongoDB, Prisma, Docker, Redis & GraphQL
+- 🚀 **Currently Learning:** AWS, Microservices, DevOps & System Design
+- 🎯 **Goal:** Build software that is clean, maintainable, and scalable.
 
 ---
 
