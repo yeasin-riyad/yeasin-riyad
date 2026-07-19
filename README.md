@@ -3,9 +3,8 @@
 <!-- ========================= -->
 
 <p align="center">
-<p align="center">
   <img src="./assets/github-banner.png" alt="Md. Yeasin Mazumder Banner" width="1000" />
-</p></p>
+</p>
 
 <h1 align="center">
 Hi 👋, I'm <span style="color:#0ea5e9;">Md. Yeasin Mazumder</span>
@@ -20,19 +19,24 @@ I build secure, scalable and production-ready web applications using modern tech
 </p>
 
 <p align="center">
-
-<a href="https://riyad-dev-i3aj.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel">
-</a>
-
-<a href="https://www.linkedin.com/in/mdyeasinmazumder">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="mailto:mazumderyeasin98@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-</a>
-
+  <a href="https://riyad-dev-i3aj.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-29903B?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/mdyeasinmazumder">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:mazumderyeasin98@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://leetcode.com/u/yeasin_riyad/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+  </a>
+  <a href="https://codeforces.com/profile/Yeasin_Riyad">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white">
+  </a>
+  <a href="https://www.hackerrank.com/profile/mazumderyeasin98">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white">
+  </a>
 </p>
 
 ---
@@ -50,34 +54,49 @@ I build secure, scalable and production-ready web applications using modern tech
 
 ---
 
+## 🏆 Competitive Programming
+
+Passionate about improving my problem-solving skills through competitive programming and algorithmic challenges.
+
+<p align="center">
+  <a href="https://leetcode.com/u/yeasin_riyad/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://codeforces.com/profile/Yeasin_Riyad" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/mazumderyeasin98" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="https://cses.fi/user/365355" target="_blank">
+    <img src="https://img.shields.io/badge/CSES-0A7E8C?style=for-the-badge"/>
+  </a>
+  <a href="https://vjudge.net/user/yeasin_riyad" target="_blank">
+    <img src="https://img.shields.io/badge/VJudge-1E88E5?style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
 # 🚀 Tech Stack
 
 ### 🎨 Frontend
-
 <p>
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" />
 </p>
 
 ---
 
 ### ⚙️ Backend
-
 <p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql" />
-
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql" />
 </p>
 
 ---
 
 ### 🗄️ Database & ORM
-
 <p>
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma" />
-
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma" />
 </p>
 
 - ⚡ Drizzle ORM
@@ -85,21 +104,15 @@ I build secure, scalable and production-ready web applications using modern tech
 ---
 
 ### 🧠 Programming Languages
-
 <p>
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,c" />
-
+  <img src="https://skillicons.dev/icons?i=js,ts,python,c" />
 </p>
 
 ---
 
 ### ☁️ DevOps & Tools
-
 <p>
-
-<img src="https://skillicons.dev/icons?i=docker,redis,git,github,postman,jest" />
-
+  <img src="https://skillicons.dev/icons?i=docker,redis,git,github,postman,jest" />
 </p>
 
 - Swagger
@@ -112,52 +125,33 @@ I build secure, scalable and production-ready web applications using modern tech
 
 ✅ REST APIs
 
-✅ Authentication & Authorization
+✅ Authentication & Authorization (JWT & OAuth)
 
-✅ JWT & OAuth
+✅ Database Design & Query Optimization
 
-✅ Database Design
+✅ Software Architecture (Clean Architecture, MVC)
 
-✅ Clean Architecture
-
-✅ MVC Pattern
-
-✅ API Documentation
-
-✅ Backend Performance Optimization
-
-✅ Real-time Applications
-
-✅ Scalable Backend Systems
+✅ Real-time Applications (WebSockets / Socket.io)
 
 ---
 
 # 🎯 Current Focus
 
-- 🔥 NestJS
-- 🚀 Next.js
-- ⚡ System Design
-- ☁️ Cloud Deployment
-- 🐳 Docker
-- 🔴 Redis
-- 🏗️ Scalable Backend Architecture
+- 🔥 NestJS & Next.js
+- ⚡ System Design & Scalable Architectures
+- ☁️ Cloud Deployment & DevOps (Docker, Redis)
 
 ---
 
 # 📈 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yeasin-riyad&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=yeasin-riyad&theme=tokyonight"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeasin-riyad&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -165,45 +159,48 @@ I build secure, scalable and production-ready web applications using modern tech
 # 🛠 Favorite Technologies
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,nextjs,postgres,mongodb,prisma,docker,redis,graphql,react" />
-
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,nextjs,postgres,mongodb,prisma,docker,redis,graphql,react" />
 </p>
 
 ---
 
-# 🌎 Let's Connect!
+## 🌎 Let's Connect
 
-I'm always open to collaborating on interesting projects, contributing to open source, and connecting with fellow developers.
-
-📍 **Location**
-
-Mirpur-12, Dhaka-1216
-
-📧 **Email**
-
-**mazumderyeasin98@gmail.com**
-
-🌐 **Portfolio**
-
-https://riyad-dev-i3aj.vercel.app/
-
-💼 **LinkedIn**
-
-https://www.linkedin.com/in/mdyeasinmazumder
+<p align="center">
+  <a href="mailto:mazumderyeasin98@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mdyeasinmazumder">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://riyad-dev-i3aj.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-29903B?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/yeasin_riyad/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://codeforces.com/profile/Yeasin_Riyad">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/mazumderyeasin98">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="https://cses.fi/user/365355">
+    <img src="https://img.shields.io/badge/CSES-0A7E8C?style=for-the-badge"/>
+  </a>
+  <a href="https://vjudge.net/user/yeasin_riyad">
+    <img src="https://img.shields.io/badge/VJudge-1E88E5?style=for-the-badge"/>
+  </a>
+</p>
 
 ---
 
 # 💙 Thanks for visiting!
 
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Backend+Developer;Node.js+%7C+NestJS+%7C+TypeScript;Building+Secure+%26+Scalable+Applications;Always+Learning+New+Technologies" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Backend+Developer;Node.js+%7C+NestJS+%7C+TypeScript;Building+Secure+%26+Scalable+Applications;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
-
-⭐ From **Md. Yeasin Mazumder**
-
+⭐️ From **Md. Yeasin Mazumder**
 </p>
